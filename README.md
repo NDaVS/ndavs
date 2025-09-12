@@ -1,4 +1,4 @@
-# 💫 Vershinin Danil,20 Y.O., 3-year of studing MCT,at Far East Federal University:
+# 💫 Vershinin Danil,21 Y.O., 4-year of studing MCT,at Far East Federal University:
 🔭 I’m currently working on math-models, full-stack web development<br>👯 I’m looking to collaborate on some cool projects and startups<br>🌱 I’m currently learning how to speak<br>💬 Ask me about cooperation and work things<br>⚡ Fun fact: find me on habr for some scientific report
 
 
